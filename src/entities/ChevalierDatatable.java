@@ -31,10 +31,6 @@ public class ChevalierDatatable {
 		
 	}
 
-	public String register() {
-		return "registrationInfo";
-	}
-
 	public List<Chevalier> getchevaliers() {
 		return chevaliers;
 	}
